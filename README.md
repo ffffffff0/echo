@@ -1,2 +1,2 @@
-# redis-queue
-redis queue
+# Echo
+Redis-based queue for Node.
